@@ -1,2 +1,2 @@
-# Age-Gender-Detector
-This project detects a person’s gender and estimates their age from live video in real time. It uses Python, OpenCV for face detection, and a deep learning model to make accurate predictions.  The system works with webcams or cameras and shows results instantly. It is helpful in retail, security, and events to understand people better.
+Twitter-Analytics-Dashboard
+A concept illustration of a Twitter analytics dashboard, featuring a modern and sleek interface with various analytics displayed. The screen shows engagement metrics such as likes, retweets, and impressions, alongside sentiment analysis (positive, negative, neutral) and trending hashtags. The background includes graphs, charts, and word clouds, with a professional color scheme in shades of blue, white, and gray. The design reflects the concept of analyzing Twitter data for insights and trends.
